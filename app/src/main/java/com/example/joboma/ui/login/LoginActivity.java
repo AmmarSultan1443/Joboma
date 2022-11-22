@@ -83,6 +83,7 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
                 // ignore
+               //essai de git avec Mr Houssam
             }
 
             @Override
